@@ -14,4 +14,5 @@ git clone --depth=1 https://github.com/MrbxCrack/MrbxCrack
 
 cd MrbxCrack
 
-python XC1.py
+python NEW4G.py
+
